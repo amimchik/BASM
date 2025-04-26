@@ -1,0 +1,9 @@
+let a = 23
+
+let b = a - 20
+
+print b
+
+a = b - 2
+
+print a
